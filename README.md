@@ -1,6 +1,6 @@
 ## Adarsh K Sujai
 
-BCA Data Science grad from Amrita Vishwa Vidyapeetham. I work mostly where machine learning meets backend systems — training models, wiring them behind APIs, and shipping things that actually run.
+BCA Data Science grad from Amrita Vishwa Vidyapeetham. I work mostly where machine learning meets backend systems - training models and wiring them behind APIs.
 
 Currently freelancing on backend / web dev work and exploring computer vision and LLM-powered tooling on the side.
 
@@ -8,7 +8,7 @@ Currently freelancing on backend / web dev work and exploring computer vision an
 - 🛠️ Building with Python, Flask/FastAPI, and a lot of `pip install`
 - 🧪 Interested in CV pipelines, retrieval/RAG, and clean API design
 - 📫 adarshsujai603@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adarshsujai/) · [Portfolio](https://adarsh-sujai.github.io/resume.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adarshsujai/) · [Portfolio](https://adarsh-sujai.github.io/) · [Resume](https://adarsh-sujai.github.io/resume.pdf)
 
 ---
 
@@ -44,7 +44,6 @@ Currently freelancing on backend / web dev work and exploring computer vision an
 
 ### GitHub Stats
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Sujai&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Sujai&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="left">
